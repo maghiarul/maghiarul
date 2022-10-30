@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panaite Cristian</h1>
 <h3 align="center">A self-taught frontend developer from Romania</h3>
 
-- 🔭 I’m currently working on [Design Solo](https://github.com/maghiarul/designsolo)
-
 - 🌱 I’m currently learning **NextJS + Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maghiarul](https://github.com/maghiarul)
